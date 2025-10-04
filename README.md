@@ -93,7 +93,7 @@ The dashboard helps organizations understand workforce trends and make data-driv
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/devanshudwivedi619/-HR-Employee-Analytics-Dashboard-Power-BI-
+   https://github.com/devanshudwivedi619/-HR-Employee-Analytics-Dashboard-Power-BI-/blob/main/hr%20analytics%20dashboard%20neww.pbix
    ```
 
 2. **Open the .pbix file** in Power BI Desktop.
